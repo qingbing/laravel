@@ -12,6 +12,5 @@ npm-debug.log
 yarn-error.log
 
 # 屏蔽 IDE信息
-/storage
 .idea
 /sub-plugins
