@@ -15,7 +15,8 @@
         "laravel/framework": "^7.0",
         "laravel/tinker": "^2.0",
         "qingbing/zf-helper": "^1.0.0",
-        "qingbing/program-laravel-api": "dev-master"
+        "qingbing/laravel-helper": "^1.0.0",
+        "qingbing/program-laravel-api": "^1.0.0"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.3",

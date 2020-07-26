@@ -13,4 +13,3 @@ yarn-error.log
 
 # 屏蔽 IDE信息
 .idea
-/sub-plugins
